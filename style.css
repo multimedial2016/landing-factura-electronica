@@ -145,10 +145,12 @@ body {
     display: flex;
     flex-flow: column;
     align-items: center;
+    
 }
 
 .article-lnd-footer {
     margin-top: 20px;
+    
 }
 
 .container-component-footer {
@@ -195,7 +197,7 @@ background: linear-gradient(to top, #E3032E, #AC0D20); /* W3C, IE 10+/ Edge, Fir
     background: -ms-linear-gradient(left, rgba(173, 6, 92, 1) 0%, rgba(212, 20, 90, 1) 52%, rgba(158, 0, 92, 1) 100%);
     background: linear-gradient(to right, rgba(173, 6, 92, 1) 0%, rgba(212, 20, 90, 1) 52%, rgba(158, 0, 92, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ad065c', endColorstr='#9e005c', GradientType=1);
-    width: 300px;
+    width: 250px;
     height: 70px;
     display: flex;
     justify-content: center;
@@ -213,8 +215,9 @@ background: linear-gradient(to top, #E3032E, #AC0D20); /* W3C, IE 10+/ Edge, Fir
 
 .container-text-footer {
     margin-top: 10px;
+    margin-left: 10px;
     margin-bottom: 20px;
-    width: 300px;
+    width: 250px;
     height: 70px;
     background-color: #fff;
     text-align: center;
