@@ -203,6 +203,7 @@ background: linear-gradient(to top, #E3032E, #AC0D20); /* W3C, IE 10+/ Edge, Fir
     justify-content: center;
     align-items: center;
     border-radius: 100px 100px 100px 110px;
+    padding: 10px 15px;
 }
 .text-container-lnd-footer p {
     text-align: center;
@@ -217,6 +218,7 @@ background: linear-gradient(to top, #E3032E, #AC0D20); /* W3C, IE 10+/ Edge, Fir
     margin-top: 10px;
     margin-left: 10px;
     margin-bottom: 20px;
+    padding: 10px 15px;
     width: 250px;
     height: 70px;
     background-color: #fff;
